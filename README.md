@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Brandol+%F0%9F%91%8B;Data+Scientist+%7C+ML+%7C+AI;I+build+things+with+data+and+code.;Currently+exploring+Computer+Vision+%26+MCP.;Building+EconIQ+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Brandol+%F0%9F%91%8B;Data+Scientist+%7C+ML+%7C+AI;I+build+things+with+data+and+code.;Currently+exploring+Computer+Vision+%26+MCP." alt="Typing SVG" />
 
 <br>
 
@@ -146,30 +146,6 @@ The goal isn't just another chatbot.
 I'm interested in AI systems that can:
 
 `SEE → UNDERSTAND → USE TOOLS → REASON → TAKE ACTION`
-
----
-
-## `github`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bkro1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkro1&layout=compact&hide_border=true&theme=transparent">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=bkro1&hide_border=true&theme=transparent">
-
-</div>
-
----
-
-## `outside the code`
-
-When I'm not working with data or building something, I'm usually experimenting with a new idea, learning something I don't understand yet, or trying to turn a random "what if?" into a working project.
-
-`learn() → build()`
 
 ---
 
