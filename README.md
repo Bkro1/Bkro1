@@ -148,29 +148,3 @@ I'm interested in AI systems that can:
 `SEE → UNDERSTAND → USE TOOLS → REASON → TAKE ACTION`
 
 ---
-
-## `connect`
-
-If you're working on interesting problems around **data, AI, machine learning, or software**, I'd be happy to connect.
-
-<div align="center">
-
-<a href="https://bkro.me">
-<img src="https://img.shields.io/badge/🌐%20bkro.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/bkro1">
-<img src="https://img.shields.io/badge/💻%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Build → Learn → Break → Fix → Repeat
-
-</div>
